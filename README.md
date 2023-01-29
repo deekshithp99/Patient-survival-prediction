@@ -1,10 +1,5 @@
 Patient survival prediction model- randomForest
----
-title: "Patient Survival Prediction"
-author: "Deekshith Pothedar"
-output:
-  word_document: default
-  html_document: default
+
 ---
 ```{r setup, include=FALSE}
 library(caTools)
